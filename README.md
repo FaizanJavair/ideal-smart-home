@@ -5,7 +5,7 @@ A simple website to handle your smart devices. This website executes CRUD operat
  - HTML 
  - CSS
  - JS
- - Bootstrap 
+ - Bootstrap
 ##The Back-end uses:
  - Express
  - Node.js
